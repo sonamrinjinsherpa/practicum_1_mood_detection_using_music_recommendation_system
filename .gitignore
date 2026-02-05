@@ -18,5 +18,3 @@ venv/
 data/raw/*.csv
 data/raw/*.zip
 
-# Large generated files
-reports/figures/*.png
