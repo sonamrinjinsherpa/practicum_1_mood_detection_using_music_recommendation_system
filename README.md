@@ -68,8 +68,6 @@ reports/
 figures/        → visualizations used in the report
 practicum_report.pdf
 
----
-
 
 ## Tools and Libraries
 
